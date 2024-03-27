@@ -1,0 +1,138 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){ 
+    body{
+    padding-top: 0px;
+    }
+    .c_padding{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+   /* header start */
+   header{
+    padding: 10px 0px;
+   }
+.menu ul li a{
+    padding: 0px 15px !important;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+
+/* banner start */
+
+   
+    .b_h1 {
+        font-size: 25px;
+        line-height: 37px;
+    }
+    
+    
+
+
+.b_p2 {
+    line-height: 30px;
+}
+
+/* slider start */
+
+
+   
+}
+
+
+
+
+
+
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .c_padding{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    /* header start */
+    /* header start */
+   header{
+    padding: 10px 0px;
+   }
+.menu ul li a{
+    padding: 0px 15px !important;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+/* banner start */
+.b_h1 {
+   
+    font-size: 30px;
+   line-height: 44px
+}
+
+.b_p2 {
+    line-height: 30px;
+}
+
+
+  
+ 
+
+
+
+
+/* feature start */
+
+/* contact start */
+.c_form{
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+.c_input{
+    height: 45px;
+    padding: 10px 10px;
+ }
+.c_submit{
+    height:45px
+}
+.c_icon li{
+    margin-right: 26px !important;
+    }
+
+.c_icon li i {
+    font-size: 40px;
+     } 
+
+     /* footer start */
+
+     footer{
+        padding-bottom: 70px;
+    
+     }
+    
+
+
+
+/*  Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+
+    
+
+
+
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {  }
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px)and (max-width: 1399.98px) {  }
+
+ /* Extra extra large devices (large desktops, 1400px and up) * */
+@media (min-width: 1400px){ 
+   
+   
+   
+ }
+}
